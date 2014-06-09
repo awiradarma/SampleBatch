@@ -1,0 +1,7 @@
+*.dat
+*.ctrl
+*TOUCH_FILES.txt
+bin/*
+service.properties
+derby.log
+sampleBatchJob.jar
